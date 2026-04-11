@@ -30,7 +30,6 @@ Expected Graduation: 2027
 
 🌱 I'm currently learning
 
-* Strengthening Data Structures & Algorithms concepts
 * Learning advanced Machine Learning techniques
 * Exploring model tuning and optimization methods
 
