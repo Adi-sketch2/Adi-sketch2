@@ -18,17 +18,18 @@ I'm a 5th-semester BCA (AI & Data Science) student at Graphic Era Hill Universit
 ### 🎯 Future Goals
 
 - Land a role as a **Machine Learning Engineer**
-- Deepen into **Generative AI** — LLMs, prompt engineering, fine-tuning, RAG pipelines
+- Learn **Deep Learning** — neural networks, CNNs, RNNs, Transformers
+- Move into **Generative AI** — LLMs, prompt engineering, fine-tuning, RAG pipelines
 - Build toward **Agentic AI** — multi-step, tool-using AI systems
-- Currently following a self-structured path: `ML → NLP → Deep Learning → Transformers → GenAI → Agentic AI`
+- Following a self-structured path: `ML → NLP → Deep Learning → Transformers → GenAI → Agentic AI`
 
 ---
 
 ### 🔨 What I'm Doing Right Now
 
+- Building end-to-end ML projects covering the full pipeline: data cleaning, feature engineering, model training, evaluation, and deployment
 - Deploying my Customer Segmentation & Churn Prediction project (Streamlit + SHAP explainability)
-- Working through the Deep Learning stage of my curriculum after completing classical ML and unsupervised learning
-- Exploring agentic coding workflows (Claude Code) to understand how AI-assisted development actually works in practice
+- Strengthening core ML fundamentals — classical supervised and unsupervised learning — before moving on to deep learning
 
 ---
 
@@ -47,7 +48,7 @@ I'm a 5th-semester BCA (AI & Data Science) student at Graphic Era Hill Universit
 `SHAP (TreeExplainer)`
 
 **Also Exploring**
-`Deep Learning Fundamentals` `Docker` 
+`Deep Learning Fundamentals` `Docker` `R` `Java/OOP`
 
 ---
 
