@@ -48,7 +48,7 @@ I'm a 5th-semester BCA (AI & Data Science) student at Graphic Era Hill Universit
 `SHAP (TreeExplainer)`
 
 **Also Exploring**
-`Deep Learning Fundamentals` `Docker` `R` `Java/OOP`
+`Deep Learning Fundamentals` `Docker` 
 
 ---
 
